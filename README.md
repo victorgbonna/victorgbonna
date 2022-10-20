@@ -1,5 +1,19 @@
 ### Hi there 👋
+I'm Ogbonna Victor, a full-stack web developer with a focus on the front-end.
+I love learning and playing football games.
 
+My stack is on JavaScript and Python 
+
+- ReactJs
+- NextJs
+- TailwindCss
+- NodeJs
+- MongoDb
+- Python 
+- Flask
+
+
+I am open for roles - mainly on NodeJS,  MongoDB, ReactJs or/and NextJs.
 <!--
 **victorgbonna/victorgbonna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
