@@ -7,6 +7,8 @@ My stack is on JavaScript and Python
 - ReactJs
 - NextJs
 - TailwindCss
+- VanillaJs
+- EJS
 - NodeJs
 - MongoDb
 - Python 
