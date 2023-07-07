@@ -11,7 +11,7 @@ My stack is on JavaScript and Python
 - EJS
 - NodeJs
 - MongoDb
-- Python 
+- TypeScript
 - Flask
 
 
